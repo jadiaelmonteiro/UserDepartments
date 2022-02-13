@@ -6,4 +6,5 @@ INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Maria', 'maria@gmail
 INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Bob', 'bob@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Alex', 'alex@gmail.com');
 INSERT INTO tb_user(department_id, name, email) VALUES (2, 'Ana', 'ana@gmail.com');
-INSERT INTO tb_user(department_id, name, email) VALUES (3, 'Jadiael', 'jadiael.monteiro@gmail.com'); 
+INSERT INTO tb_user(department_id, name, email) VALUES (3, 'Jadiael', 'jadiael.monteiro@gmail.com');
+INSERT INTO tb_user(department_id, name, email) VALUES (1, 'Evelyn', 'evelyn.monteiro@gmail.com'); 
